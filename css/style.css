@@ -1,0 +1,8 @@
+#threejs-container {
+    width: 100%;
+    max-width: 1200px;
+    background-color: #ADD8E6;
+    position: flex;
+    display: block; /* 将容器设为块级元素 */
+    margin: 30px; /* 确保容器水平居中 */
+}
